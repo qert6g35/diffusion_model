@@ -1,0 +1,5 @@
+yt explanation:
+https://www.youtube.com/watch?v=fbLgFrlTnGU
+
+github z całą masą niezrozumiałego kodu
+https://github.com/lucidrains/denoising-diffusion-pytorch/blob/main/denoising_diffusion_pytorch/classifier_free_guidance.py
