@@ -1,3 +1,9 @@
+Conditional Latent Diffusion Models:
+https://www.youtube.com/watch?v=hEJjg7VUA8g
+
+yt implementation:
+https://www.youtube.com/watch?v=a4Yfz2FxXiY
+
 yt explanation:
 https://www.youtube.com/watch?v=fbLgFrlTnGU
 
